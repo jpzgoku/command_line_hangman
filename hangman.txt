@@ -1,0 +1,1 @@
+{"word": "endomorph", "wrong_guesses": 3, "board": ["", "", "d", "", "", "", "", "", ""], "guessed_letters": ["a", "b", "c", "d"], "correct_spots": 1}
